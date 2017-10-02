@@ -1,0 +1,1666 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE document [
+	<!ELEMENT document (section+)> 
+		<!ELEMENT section (heading|section|bibentry)*>
+		<!ATTLIST section level (1|2|3|4|5) #REQUIRED>
+		<!ATTLIST section id CDATA #REQUIRED>
+			<!ELEMENT heading (#PCDATA|boldtitle|title|subtitle)*>
+				<!ELEMENT title (#PCDATA)> 
+				<!ELEMENT boldtitle (#PCDATA)> 
+				<!ELEMENT subtitle (#PCDATA)> 
+			<!ELEMENT bibentry (#PCDATA)>
+			<!ATTLIST bibentry id CDATA #REQUIRED>
+		<!ENTITY rsquo "’">
+]>
+
+<document> 
+	<section level="1" id="1"> 
+		<section level="2" id="1"> 
+			<heading><boldtitle>Step 1:</boldtitle><subtitle> Consult bibliographies of bibliographies and guides to research methods to identify existing bibliographies of primary or secondary works associated with an author or topic. </subtitle></heading> 
+			<section level="3" id="1"> 
+				<heading><title>General Bibliographies of Bibliographies and Guides to Research Methods</title></heading>
+				<bibentry id="M1357">Bracken</bibentry> 
+				<bibentry id="D170">Weiner</bibentry> 
+				<bibentry id="D145"></bibentry>
+				<bibentry id="G325">Wortman</bibentry> 
+				<bibentry id="G327">Balay</bibentry> 
+				<bibentry id="D155">Besterman</bibentry> 
+			</section>
+			<section level="3" id="2">
+				<heading><title>Specialized Bibliographies of Bibliographies and Guides to Research Methods</title></heading>
+				<section level="4" id="1">
+					<heading><title>American Literature</title></heading> 
+					<bibentry id="M1357">Bracken</bibentry> 
+					<bibentry id="Q3715"></bibentry>
+					<bibentry id="Q3995">Courtney</bibentry> 
+					<bibentry id="Q4100">Stein</bibentry> 
+					<bibentry id="Q4210">Matuozzi and Lindsay</bibentry> 
+					<bibentry id="Q4265">McPheron</bibentry> 
+					<bibentry id="Q4315">McPheron</bibentry> 
+				</section> 
+				<section level="4" id="2">
+					<heading><title>Australian Literature</title></heading> 
+					<bibentry id="R4435">Christenberry and Courtney</bibentry> 
+				</section> 
+				<section level="4" id="3">
+					<heading><title>Canadian Literature</title></heading> 
+					<bibentry id="R4585"></bibentry>
+				</section> 
+				<section level="4" id="4">
+					<heading><title>Caribbean-Area Literatures</title></heading> 
+					<bibentry id="R4785">Jordan</bibentry> 
+				</section> 
+				<section level="4" id="5">
+					<heading><title>Children’s Literature</title></heading> 
+					<bibentry id="U5435">Grenby and Reynolds</bibentry> 
+				</section> 
+				<section level="4" id="6">
+					<heading><title>English Literature</title></heading> 
+					<bibentry id="M1355">Howard-Hill</bibentry> 
+					<bibentry id="M1357">Bracken</bibentry> 
+					<bibentry id="M1960">Bowers and Keeran</bibentry> 
+					<bibentry id="M2220">Lund</bibentry> 
+					<bibentry id="M2447">Van Vuuren</bibentry> 
+					<bibentry id="M2745">Lewis</bibentry> 
+					<bibentry id="M2760">Mellown</bibentry> 
+				</section> 
+				<section level="4" id="7">
+					<heading><title>Festschriften</title></heading> 
+					<bibentry id="D165"></bibentry>
+				</section> 
+				<section level="4" id="8">
+					<heading><title>Fiction</title></heading> 
+					<bibentry id="L833"></bibentry>
+					<bibentry id="Q4265">McPheron</bibentry> 
+				</section> 
+				<section level="4" id="9">
+					<heading><title>Film</title></heading> 
+					<bibentry id="U5755"></bibentry>
+				</section> 
+				<section level="4" id="10">
+					<heading><title>Irish Literature</title></heading> 
+					<bibentry id="N2905">Gre</bibentry>
+					<bibentry id="N2930">Eager</bibentry> 
+				</section> 
+				<section level="4" id="11">
+					<heading><title>Medieval Studies</title></heading> 
+					<bibentry id="M1805">Rouse</bibentry> 
+				</section> 
+				<section level="4" id="12">
+					<heading><title>New Zealand Literature</title></heading> 
+					<bibentry id="R4435">Christenberry and Courtney</bibentry> 
+				</section> 
+				<section level="4" id="13">
+					<heading><title>Periodicals</title></heading> 
+					<bibentry id="K610"></bibentry>
+				</section> 
+				<section level="4" id="14">
+					<heading><title>Poetry</title></heading> 
+					<bibentry id="Q4315">McPheron</bibentry> 
+				</section> 
+				<section level="4" id="15">
+					<heading><title>Religion and Literature</title></heading> 
+					<bibentry id="U6325"></bibentry>
+				</section> 
+				<section level="4" id="16">
+					<heading><title>Women&rsquo;s Studies</title></heading> 
+					<bibentry id="E220">Nelson</bibentry> 
+					<bibentry id="U6585"></bibentry>
+				</section> 
+			</section> <!--end level 3--> 
+		</section> <!--end step 1--> 
+
+		<section level="2" id="2"> 
+			<heading><boldtitle>Step 2:</boldtitle><subtitle> Search catalogs of libraries.</subtitle></heading> 
+			<section level="3" id="1"> 
+				<heading><title>a. Locate major library collections.</title></heading>
+				<section level="4" id="1">
+					<heading><title>General Guides</title></heading> 
+					<bibentry id="E205">Ash and Miller</bibentry> 
+					<bibentry id="E210"></bibentry>
+				</section> 
+				<section level="4" id="2">
+					<heading><title>Other Guides to Collections</title></heading> 
+					<bibentry id="N2935">Lester</bibentry> 
+					<bibentry id="Q3730"></bibentry>
+					<bibentry id="U5460"></bibentry>
+					<bibentry id="U6290"></bibentry>
+				</section> 
+				<section level="3" id="3"> 
+					<heading><title>b. Search union catalogs.</title></heading> 
+					<bibentry id="E225"></bibentry>
+					<bibentry id="E235"></bibentry>
+				</section> 
+				<section level="3" id="4"> 
+					<heading><title>c. Search catalogs of major national libraries.</title></heading> 
+					<bibentry id="E250"></bibentry>
+					<bibentry id="E255"></bibentry>
+					<bibentry id="E260"></bibentry>
+				</section> 
+			</section><!--end of level 3--> 
+		</section> <!--end of step 2--> 
+		<section level="2" id="3"> 
+			<heading><boldtitle>Step 3:</boldtitle><subtitle> Search national bibliographies.</subtitle></heading> 
+			<section level="3" id="1"> 
+				<heading><title>General Guides</title></heading> 
+				<bibentry id="D180">Domay</bibentry> 
+				<heading><title>American Literature</title></heading>
+				<bibentry id="Q4005"></bibentry>
+				<bibentry id="Q4010"></bibentry>
+				<bibentry id="M1377"></bibentry>
+				<bibentry id="M1990"></bibentry>
+				<bibentry id="M1995"></bibentry>
+				<bibentry id="M2470"></bibentry>
+				<bibentry id="M2475"></bibentry>
+				<bibentry id="Q4125"></bibentry>
+				<bibentry id="Q4130"></bibentry>
+				<bibentry id="Q4120"></bibentry>
+				<bibentry id="Q4110"></bibentry>
+			</section> 
+			<section level="3" id="2"> 
+				<heading><title>Australian Literature</title></heading>
+				<bibentry id="R4463"></bibentry>
+				<bibentry id="R4465"></bibentry>
+				<bibentry id="R4470">Ferguson</bibentry> 
+			</section> 
+			<section level="3" id="3"> 
+				<heading><title>Canadian Literature</title></heading>
+				<bibentry id="R4595"></bibentry>
+				<bibentry id="R4615">Tremaine</bibentry> 
+			</section> 
+			<section level="3" id="4"> 
+				<heading><title>English Literature</title></heading>
+				<bibentry id="M1377"></bibentry>
+				<bibentry id="M1820"></bibentry>
+				<bibentry id="M1990"></bibentry>
+				<bibentry id="M1995"></bibentry>
+				<bibentry id="M2470"></bibentry>
+				<bibentry id="M2475"></bibentry>
+				<bibentry id="M2770"></bibentry>
+			</section> 
+			<section level="3" id="5"> 
+				<heading><title>New Zealand Literature</title></heading>
+				<bibentry id="R4810">Bagnall</bibentry> 
+				<bibentry id="R4815"></bibentry>
+			</section> 
+		</section> <!--end of step 3--> 
+		<section level="2" id="4"> 
+			<heading><boldtitle>Step 4:</boldtitle><subtitle> Consult specialized guides devoted to primary works related to a national literature, genre, or topic.</subtitle></heading> 
+			<section level="3" id="1"> 
+				<heading><title>American Literature</title></heading>
+				<bibentry id="J595"></bibentry>
+				<bibentry id="L1060"></bibentry>
+				<bibentry id="M2640">Grimes</bibentry> 
+				<bibentry id="Q3250">Blanck</bibentry> 
+				<bibentry id="Q3255"></bibentry>
+				<bibentry id="Q3405"></bibentry>
+				<bibentry id="Q3410">Chielens</bibentry> 
+				<bibentry id="Q3473">Davis and Joyce</bibentry> 
+				<bibentry id="Q3512"></bibentry>
+				<bibentry id="Q3534">Davis and Joyce</bibentry> 
+				<bibentry id="Q3540">Arksey</bibentry> 
+				<bibentry id="Q3545"></bibentry>
+				<bibentry id="Q3720"></bibentry>
+				<bibentry id="Q3723"></bibentry>
+				<bibentry id="Q3725"></bibentry>
+				<bibentry id="Q3730"></bibentry>
+				<bibentry id="Q3775"></bibentry>
+				<bibentry id="Q3815">Margolies</bibentry> 
+				<bibentry id="Q3825">Hatch and Abdullah</bibentry> 
+				<bibentry id="Q3840"></bibentry>
+				<bibentry id="Q3835">Wagner</bibentry> 
+				<bibentry id="Q3840"></bibentry>
+				<bibentry id="Q3845">French</bibentry> 
+				<bibentry id="Q3850">Brignano</bibentry> 
+				<bibentry id="Q3870">Littlefield</bibentry> 
+				<bibentry id="Q3920">Colonnese</bibentry> 
+				<bibentry id="Q3925">Brumble</bibentry> 
+				<bibentry id="Q3940">Cheung</bibentry> 
+				<bibentry id="Q3990">Nadel</bibentry> 
+				<bibentry id="Q4000"></bibentry>
+				<bibentry id="Q4015"></bibentry>
+				<bibentry id="Q4035">Brigham</bibentry> 
+				<bibentry id="Q4040">Kribbs</bibentry> 
+				<bibentry id="Q4045"></bibentry>
+				<bibentry id="Q4060">Pitcher</bibentry> 
+				<bibentry id="Q4070">Hill</bibentry> 
+				<bibentry id="Q4075"></bibentry>
+				<bibentry id="Q4080">Lemay</bibentry> 
+				<bibentry id="Q4085">Wegelin</bibentry> 
+				<bibentry id="Q4115"></bibentry>
+				<bibentry id="Q4180">Wright</bibentry> 
+				<bibentry id="Q4195"></bibentry>
+				<bibentry id="Q4225"></bibentry>
+				<bibentry id="Q4230">Lepper</bibentry> 
+				<bibentry id="Q4235">Vrana</bibentry> 
+				<bibentry id="Q4267"></bibentry>
+				<bibentry id="Q4285">Leiter</bibentry> 
+				<bibentry id="Q4320">Davis</bibentry> 
+				<bibentry id="Q4325"></bibentry>
+				<bibentry id="Q4330">Reardon</bibentry> 
+				<bibentry id="Q4345">Brier</bibentry> 
+				<bibentry id="U5160">Huddleston</bibentry> 
+				<bibentry id="U5473"></bibentry>
+				<bibentry id="U5475"></bibentry>
+			</section> 
+			<section level="3" id="2"> 
+				<heading><title>Australian Literature</title></heading>
+				<bibentry id="L1060"></bibentry>
+				<bibentry id="R4463"></bibentry>
+				<bibentry id="R4465"></bibentry>
+				<bibentry id="R4470">Ferguson</bibentry> 
+				<bibentry id="R4475">Miller</bibentry> 
+				<bibentry id="R4488">Ross</bibentry> 
+				<bibentry id="R4500">Stuart</bibentry> 
+				<bibentry id="R4525">Torre</bibentry> 
+				<bibentry id="R4530">Day</bibentry> 
+				<bibentry id="R4545">Webby</bibentry> 
+			</section> 
+			<section level="3" id="3"> 
+				<heading><title>Canadian Literature</title></heading>
+				<bibentry id="L1060"></bibentry>
+				<bibentry id="Q3990">Nadel</bibentry> 
+				<bibentry id="Q4010"></bibentry>
+				<bibentry id="Q4325"></bibentry>
+				<bibentry id="R4595"></bibentry>
+				<bibentry id="R4605"></bibentry>
+				<bibentry id="R4610"></bibentry>
+				<bibentry id="R4613">Miska</bibentry> 
+				<bibentry id="R4615">Tremaine</bibentry> 
+				<bibentry id="R4620">Watters</bibentry> 
+				<bibentry id="R4703">Weiss</bibentry> 
+				<bibentry id="R4705">Hayne</bibentry> 
+				<bibentry id="R4710">Hoy</bibentry> 
+				<bibentry id="R4720">Rinfret</bibentry> 
+				<bibentry id="R4722"></bibentry>
+				<bibentry id="R4725"></bibentry>
+				<bibentry id="R4750">McQuarrie, Mercer, and Ripley</bibentry> 
+			</section> 
+			<section level="3" id="4"> 
+				<heading><title>Children&rsquo;s Literature</title></heading>
+				<bibentry id="Q3940">Cheung</bibentry> 
+				<bibentry id="U5460"></bibentry>
+				<bibentry id="U5470"></bibentry>
+				<bibentry id="U5473"></bibentry>
+				<bibentry id="U5475"></bibentry>
+				<bibentry id="U5540"></bibentry>
+			</section> 
+			<section level="3" id="5"> 
+				<heading><title>Drama and Theater</title></heading>
+				<bibentry id="L1150">Montgomery</bibentry> 
+				<bibentry id="L1155"></bibentry>
+				<bibentry id="M1540"></bibentry>
+				<bibentry id="M1545">Nicoll</bibentry> 
+				<bibentry id="M1550">Stratman</bibentry> 
+				<bibentry id="M2135">Greg</bibentry> 
+				<bibentry id="M2136">Wiggins</bibentry> 
+				<bibentry id="M2137">Farmer and Lesser</bibentry> 
+				<bibentry id="M2377">Burling</bibentry> 
+				<bibentry id="Q3512"></bibentry>
+				<bibentry id="Q3825"></bibentry>
+				<bibentry id="Q3845">French</bibentry> 
+				<bibentry id="Q4070">Hill</bibentry> 
+				<bibentry id="Q4195"></bibentry>
+				<bibentry id="R4720">Rinfret</bibentry> 
+				<bibentry id="R4725"></bibentry>
+			</section> <!-- end of level 3--> 
+			<section level="3" id="6"> 
+				<heading><title>English Literature</title></heading>
+				<bibentry id="L1060"></bibentry>
+				<bibentry id="M1370">Mullins</bibentry> 
+				<bibentry id="M1376"></bibentry>
+				<bibentry id="M1377"></bibentry>
+				<bibentry id="M1385"></bibentry>
+				<bibentry id="M1540"></bibentry>
+				<bibentry id="M1545">Nicoll</bibentry> 
+				<bibentry id="M1550">Stratman</bibentry> 
+				<bibentry id="M1610">Matthews</bibentry> 
+				<bibentry id="M1615">Matthews</bibentry> 
+				<bibentry id="M1820"></bibentry>
+				<bibentry id="M1825">Severs, Hartung, and Beidler</bibentry> 
+				<bibentry id="M1927">Grantley</bibentry> 
+				<bibentry id="M1945"></bibentry>
+				<bibentry id="M1990"></bibentry>
+				<bibentry id="M1995"></bibentry>
+				<bibentry id="M2007">Smith and Cardinale</bibentry> 
+				<bibentry id="M2095">Mish</bibentry> 
+				<bibentry id="M2100">O&rsquo;Dell</bibentry> 
+				<bibentry id="M2135">Greg</bibentry> 
+				<bibentry id="M2136">Wiggins</bibentry> 
+				<bibentry id="M2180">Case</bibentry> 
+				<bibentry id="M2185">Frank</bibentry> 
+				<bibentry id="M2190">Ringler</bibentry> 
+				<bibentry id="M2235"></bibentry>
+				<bibentry id="M2270">Crane</bibentry> 
+				<bibentry id="M2320">Beasley</bibentry> 
+				<bibentry id="M2325">McBurney</bibentry> 
+				<bibentry id="M2330">Mayo</bibentry> 
+				<bibentry id="M2335">Raven</bibentry> 
+				<bibentry id="M2336"></bibentry>
+				<bibentry id="M2377">Burling</bibentry> 
+				<bibentry id="M2415">Foxon</bibentry> 
+				<bibentry id="M2420">Jackson</bibentry> 
+				<bibentry id="M2435">Stauffer</bibentry> 
+				<bibentry id="M2466"></bibentry>
+				<bibentry id="M2467"></bibentry>
+				<bibentry id="M2470"></bibentry>
+				<bibentry id="M2475"></bibentry>
+				<bibentry id="M2530"></bibentry>
+				<bibentry id="M2535"></bibentry>
+				<bibentry id="M2540"></bibentry>
+				<bibentry id="M2545"></bibentry>
+				<bibentry id="M2550">Ward</bibentry> 
+				<bibentry id="M2635">Sadleir</bibentry> 
+				<bibentry id="M2640">Grimes</bibentry> 
+				<bibentry id="M2645">Harris</bibentry> 
+				<bibentry id="M2650">Snell</bibentry> 
+				<bibentry id="M2655">Vann</bibentry> 
+				<bibentry id="M2660">Wolff</bibentry> 
+				<bibentry id="M2707">Reilly</bibentry> 
+				<bibentry id="M2770"></bibentry>
+				<bibentry id="M2775"></bibentry>
+				<bibentry id="M2840">Rice</bibentry> 
+				<bibentry id="Q3512"></bibentry>
+				<bibentry id="Q3534">Davis and Joyce</bibentry> 
+				<bibentry id="Q4290">Harris</bibentry> 
+			</section> 
+			<section level="3" id="7"> 
+				<heading><title>Fiction</title></heading>
+				<bibentry id="L835"></bibentry>
+				<bibentry id="L860">Bleiler</bibentry> 
+				<bibentry id="L885">Baker</bibentry> 
+				<bibentry id="L890">Adamson</bibentry> 
+				<bibentry id="L895">Adamson</bibentry> 
+				<bibentry id="L900">Nield</bibentry> 
+				<bibentry id="L910">Stephensen-Payne, Contento, and Miller</bibentry> 
+				<bibentry id="L915">Hubin</bibentry> 
+				<bibentry id="L950">Laurenti</bibentry> 
+				<bibentry id="L980"></bibentry>
+				<bibentry id="L985">Contento</bibentry> 
+				<bibentry id="L987">Miller</bibentry> 
+				<bibentry id="L990">Reginald</bibentry> 
+				<bibentry id="L995">Schlobin</bibentry> 
+				<bibentry id="L1000">Tuck</bibentry> 
+				<bibentry id="L1015">Barron</bibentry> 
+				<bibentry id="L1055">Sargent</bibentry> 
+				<bibentry id="L1060"></bibentry>
+				<bibentry id="L1085"></bibentry>
+				<bibentry id="M2095">Mish</bibentry> 
+				<bibentry id="M2100">O&rsquo;Dell</bibentry> 
+				<bibentry id="M2320">Beasley</bibentry> 
+				<bibentry id="M2325">McBurney</bibentry> 
+				<bibentry id="M2330">Mayo</bibentry> 
+				<bibentry id="M2335">Raven</bibentry> 
+				<bibentry id="M2336"></bibentry>
+				<bibentry id="M2635">Sadleir</bibentry> 
+				<bibentry id="M2640">Grimes</bibentry> 
+				<bibentry id="M2645">Harris</bibentry> 
+				<bibentry id="M2650">Snell</bibentry> 
+				<bibentry id="M2655">Vann</bibentry> 
+				<bibentry id="M2660"></bibentry>
+				<bibentry id="M2840">Rice</bibentry> 
+				<bibentry id="N3025">Brown</bibentry> 
+				<bibentry id="Q3473"></bibentry>
+				<bibentry id="Q3815">Margolies</bibentry> 
+				<bibentry id="Q3920">Colonnese</bibentry> 
+				<bibentry id="Q4060">Pitcher</bibentry> 
+				<bibentry id="Q4180">Wright</bibentry> 
+				<bibentry id="Q4267"></bibentry>
+				<bibentry id="R4525">Torre</bibentry> 
+				<bibentry id="R4530">Day</bibentry> 
+				<bibentry id="R4703">Weiss</bibentry> 
+				<bibentry id="R4705">Hayne</bibentry> 
+				<bibentry id="R4710">Hoy</bibentry> 
+				<bibentry id="R4835">Burns</bibentry>
+			</section>
+			<section level="3" id="8"> 
+				<heading><title>Gay, Lesbian, Bisexual, and Transgendered Literature</title></heading>
+				<bibentry id="U5930">Bosman and Bradford</bibentry> 
+			</section> 
+			<section level="3" id="9"> 
+				<heading><title>Gothic Fiction</title></heading>
+				<bibentry id="L860">Bleiler</bibentry> 
+			</section> 
+			<section level="3" id="10"> 
+				<heading><title>Historical Fiction</title></heading>
+				<bibentry id="L885">Baker</bibentry> 
+				<bibentry id="L890">Adamson</bibentry> 
+				<bibentry id="L895">Adamson</bibentry> 
+				<bibentry id="L900">Nield</bibentry> 
+			</section> 
+			<section level="3" id="11"> 
+				<heading><title>Irish Literature</title></heading>
+				<bibentry id="N2935">Lester</bibentry> 
+				<bibentry id="N2945"></bibentry>
+				<bibentry id="N2985">McKenna</bibentry> 
+				<bibentry id="N3000"></bibentry>
+				<bibentry id="N3025">Brown</bibentry> 
+			</section> 
+			<section level="3" id="12"> 
+				<heading><title>Little Magazines</title></heading>
+				<bibentry id="K770">Hoffman</bibentry> 
+				<bibentry id="K775"></bibentry>
+				<bibentry id="K780"></bibentry>
+				<bibentry id="K785">Bloomfield</bibentry> 
+				<bibentry id="K790"></bibentry>
+				<bibentry id="K793"></bibentry> 
+				<bibentry id="K795"></bibentry>
+				<bibentry id="K800"></bibentry>
+			</section> 
+			<section level="3" id="13"> 
+				<heading><title>Mystery Fiction</title></heading>
+				<bibentry id="L910">Stephensen-Payne, Contento, and Miller</bibentry> 
+				<bibentry id="L915">Hubin</bibentry> 
+			</section> 
+			<section level="3" id="14"> 
+				<heading><title>New Zealand Literature</title></heading>
+				<bibentry id="L1060"></bibentry>
+				<bibentry id="R4810">Bagnall</bibentry> 
+				<bibentry id="R4815"></bibentry>
+				<bibentry id="R4820">Thomson</bibentry> 
+				<bibentry id="R4835">Burns</bibentry> 
+			</section> 
+			<section level="3" id="15"> 
+				<heading><title>Poetry</title></heading>
+				<bibentry id="L1235"></bibentry>
+				<bibentry id="M1940">Boffey</bibentry> 
+				<bibentry id="M2180">Case</bibentry> 
+				<bibentry id="M2185">Frank</bibentry> 
+				<bibentry id="M2190">Ringler</bibentry> 
+				<bibentry id="M2415">Foxon</bibentry> 
+				<bibentry id="M2420">Jackson</bibentry> 
+				<bibentry id="M2707">Reilly</bibentry> 
+				<bibentry id="Q3534">Davis and Joyce</bibentry> 
+				<bibentry id="Q3840"></bibentry>
+				<bibentry id="Q3845">French</bibentry> 
+				<bibentry id="Q4075"></bibentry>
+				<bibentry id="Q4080">Lemay</bibentry> 
+				<bibentry id="Q4090">Scheick</bibentry> 
+				<bibentry id="Q4095">Yannella</bibentry> 
+				<bibentry id="Q4105"></bibentry>
+				<bibentry id="Q4110"></bibentry>
+				<bibentry id="Q4320">Davis</bibentry> 
+				<bibentry id="Q4325"></bibentry>
+				<bibentry id="Q4330">Reardon</bibentry> 
+				<bibentry id="R4545">Webby</bibentry> 
+				<bibentry id="R4750"></bibentry>
+				<bibentry id="U5160">Huddleston</bibentry> 
+				<bibentry id="U5540"></bibentry>
+			</section> 
+			<section level="3" id="16"> 
+				<heading><title>Prose</title></heading>
+				<bibentry id="M1945"></bibentry>
+				<bibentry id="Q4095">Yannella</bibentry> 
+				<bibentry id="Q4345">Brier</bibentry> 
+				<bibentry id="R4530">Day</bibentry> 
+				<bibentry id="R4710">Hoy</bibentry> 
+			</section> 
+			<section level="3" id="17"> 
+				<heading><title>Science Fiction</title></heading>
+				<bibentry id="L980"></bibentry>
+				<bibentry id="L985">Contento</bibentry> 
+				<bibentry id="L987">Miller</bibentry> 
+				<bibentry id="L990">Reginald</bibentry> 
+				<bibentry id="L995">Schlobin</bibentry> 
+				<bibentry id="L1000">Tuck</bibentry> 
+				<bibentry id="L1015">Barron</bibentry> 
+			</section> 
+			<section level="3" id="18"> 
+				<heading><title>Scottish Literature</title></heading>
+				<bibentry id="O3103"></bibentry>
+			</section> 
+			<section level="3" id="19"> 
+				<heading><title>Short Fiction</title></heading>
+				<bibentry id="G385"></bibentry>
+				<bibentry id="G400"></bibentry>
+				<bibentry id="L1085"></bibentry>
+				<bibentry id="M2645">Harris</bibentry> 
+				<bibentry id="R4525">Torre</bibentry> 
+				<bibentry id="R4703">Weiss</bibentry> 
+			</section> 
+			<section level="3" id="20"> 
+				<heading><title>Welsh Literature</title></heading>
+				<bibentry id="P3150">Jones</bibentry> 
+				<bibentry id="P3165">Walters</bibentry> 
+			</section> 
+		</section> <!--end of step 4--> 
+		<section level="2" id="5"> 
+			<heading><boldtitle>Step 5:</boldtitle><subtitle> Search text archives.</subtitle></heading> 
+			<section level="3" id="1"> 
+				<heading><title>American Literature</title></heading>
+				<bibentry id="I527"></bibentry>
+				<bibentry id="Q3514"></bibentry>
+				<bibentry id="Q3536"></bibentry>
+				<bibentry id="Q3540"></bibentry>
+				<bibentry id="Q3848"></bibentry>
+				<bibentry id="Q4005"></bibentry>
+				<bibentry id="Q4015"></bibentry>
+				<bibentry id="Q4050"></bibentry>
+				<bibentry id="Q4125"></bibentry>
+				<bibentry id="Q4130"></bibentry>
+				<bibentry id="Q4180"></bibentry>
+				<bibentry id="Q4183"></bibentry>
+				<bibentry id="Q4333"></bibentry>
+			</section> 
+			<section level="3" id="2"> 
+				<heading><title>Broadsides</title></heading>
+				<bibentry id="Q4130"></bibentry>
+				<bibentry id="Q4130"></bibentry>
+			</section> 
+			<section level="3" id="3"> 
+				<heading><title>Canadian Literature</title></heading>
+				<bibentry id="R4753"></bibentry>
+			</section> 
+			<section level="3" id="4"> 
+				<heading><title>Diaries</title></heading>
+				<bibentry id="M1615"></bibentry>
+				<bibentry id="Q3540"></bibentry>
+			</section> 
+			<section level="3" id="5"> 
+				<heading><title>Drama</title></heading>
+				<bibentry id="L1158"></bibentry>
+				<bibentry id="M1553"></bibentry>
+				<bibentry id="Q3514"></bibentry>
+			</section> 
+			<section level="3" id="6"> 
+				<heading><title>English Literature</title></heading>
+				<bibentry id="I527"></bibentry>
+				<bibentry id="M1553"></bibentry>
+				<bibentry id="M1593"></bibentry>
+				<bibentry id="M1615"></bibentry>
+				<bibentry id="M1705"></bibentry>
+				<bibentry id="M2009"></bibentry>
+				<bibentry id="M2103"></bibentry>
+				<bibentry id="M2238"></bibentry>
+				<bibentry id="M2339"></bibentry>
+				<bibentry id="M2663"></bibentry>
+				<bibentry id="M2894"></bibentry>
+			</section> 
+			<section level="3" id="7"> 
+				<heading><title>Fiction</title></heading>
+				<bibentry id="M2103"></bibentry>
+				<bibentry id="M2339"></bibentry>
+				<bibentry id="M2663"></bibentry>
+				<bibentry id="Q4180"></bibentry>
+				<bibentry id="Q4183"></bibentry>
+			</section> 
+			<section level="3" id="8"> 
+				<heading><title>Poetry</title></heading>
+				<bibentry id="M1593"></bibentry>
+				<bibentry id="M2894"></bibentry>
+				<bibentry id="Q3536"></bibentry>
+				<bibentry id="Q3848"></bibentry>
+				<bibentry id="Q4333"></bibentry>
+				<bibentry id="R4753"></bibentry>
+			</section> 
+		</section> <!--end of step 5--> 
+	</section> <!-- end of Page 1--> 
+
+	<section level="1" id="2"> <!-- start of Page 2 -->  
+		<section level="2" id="1"> 
+			<heading><boldtitle>Step 1:</boldtitle><subtitle> Consult guides to archives and collections.</subtitle></heading> 
+			<bibentry id="F280"></bibentry>
+			<bibentry id="F283">Foster and Sheppard</bibentry> 
+			<bibentry id="F285"></bibentry>
+			<bibentry id="F290"></bibentry>
+			<bibentry id="F293"></bibentry>
+			<bibentry id="M2860">Innes</bibentry> 
+			<bibentry id="Q3245"></bibentry>
+			<bibentry id="R4462"></bibentry>
+			<bibentry id="U5465">Fraser</bibentry> 
+		</section> <!--end of Page 2, Step 1--> 
+
+		<section level="2" id="2"> 
+			<heading><boldtitle>Step 2:</boldtitle><subtitle> Search union catalogs.</subtitle></heading> 
+			<bibentry id="E225"></bibentry>
+			<bibentry id="F295"></bibentry>
+			<bibentry id="R4590"></bibentry>
+			<bibentry id="R4722"></bibentry>
+			<bibentry id="R4808"></bibentry>
+		</section> <!-- end of Page 2, Step 2--> 
+		<section level="2" id="3"> 
+			<heading><boldtitle>Step 3:</boldtitle><subtitle> Search catalogs of major institutional collections.</subtitle></heading> 
+			<bibentry id="F300"></bibentry>
+			<bibentry id="F300"></bibentry>
+			<bibentry id="F300"></bibentry>
+			<bibentry id="F300"></bibentry>
+		</section> <!-- end of Page 2, Step 3 --> 
+		<section level="2" id="4"> 
+			<heading><boldtitle>Step 4:</boldtitle><subtitle> Search catalogs devoted to a national literature, geographical area, or subject.</subtitle></heading> 
+			<bibentry id="F305">Schoenberg</bibentry> 
+			<bibentry id="M1365"></bibentry>
+			<bibentry id="M1540"></bibentry>
+			<bibentry id="M1590">Crum</bibentry> 
+			<bibentry id="M1645">Ker</bibentry> 
+			<bibentry id="M1810">Ker</bibentry> 
+			<bibentry id="M1815">Ricci</bibentry> 
+			<bibentry id="M1940">Boffey</bibentry> 
+			<bibentry id="M1945"></bibentry>
+			<bibentry id="M2227"></bibentry>
+			<bibentry id="M2765"></bibentry>
+			<bibentry id="N2940">Hayes</bibentry> 
+			<bibentry id="Q3230"></bibentry>
+			<bibentry id="Q3235"></bibentry>
+			<bibentry id="Q3240"></bibentry>
+		</section> <!-- end of Page 2, Step 4 --> 
+		<section level="2" id="5"> 
+			<heading><boldtitle>Step 5:</boldtitle><subtitle> Search text archives.</subtitle></heading> 
+			<bibentry id="M1373"></bibentry>
+		</section> <!-- end of Page 2, Step 5 --> 
+	</section> <!-- end of Page 2 --> 
+
+	<section level="1" id="3"> <!-- start of Page 3 -->  
+		<section level="2" id="1"> 
+			<heading><boldtitle>Step 1:</boldtitle><subtitle> Consult bibliographies of bibliographies to identify existing bibliographies of secondary works associated with an author or topic.</subtitle></heading> 
+			<section level="3" id="1"> 
+				<heading><title>General Bibliographies of Bibliographies </title></heading>
+				<bibentry id="M1357">Bracken</bibentry> 
+				<bibentry id="D170">Weiner</bibentry> 
+				<bibentry id="D145"></bibentry>
+				<bibentry id="G325">Wortman</bibentry> 
+			</section>
+			<section level="3" id="2"> 
+				<heading><title>Specialized Bibliographies of Bibliographies</title></heading>
+				<section level="4" id="1">
+					<heading><title>American Literature</title></heading> 
+					<bibentry id="M1357">Bracken</bibentry> 
+					<bibentry id="Q3715"></bibentry>
+					<bibentry id="Q4265">McPheron</bibentry> 
+					<bibentry id="Q4315">McPheron</bibentry> 
+				</section> 
+				<section level="4" id="2">
+					<heading><title>Book Review Indexes</title></heading> 
+					<bibentry id="G410">Gray</bibentry> 
+				</section> 
+				<section level="4" id="3">
+					<heading><title>Canadian Literature</title></heading> 
+					<bibentry id="R4585">Ingles</bibentry> 
+				</section> 
+				<section level="4" id="4">
+					<heading><title>Caribbean-Area Literatures</title></heading> 
+					<bibentry id="R4785">Jordan</bibentry> 
+				</section> 
+				<section level="4" id="5">
+					<heading><title>Dictionaries</title></heading> 
+					<bibentry id="U6018">Cop</bibentry> 
+				</section> 
+				<section level="4" id="6">
+					<heading><title>Dissertations and Theses</title></heading> 
+					<bibentry id="H455">Reynolds</bibentry> 
+				</section> 
+				<section level="4" id="7">
+					<heading><title>English Literature</title></heading> 
+					<bibentry id="M1355">Howard-Hill</bibentry> 
+					<bibentry id="M1357">Bracken</bibentry> 
+					<bibentry id="M2220">Lund</bibentry> 
+					<bibentry id="M2760">Mellown</bibentry> 
+				</section> 
+				<section level="4" id="8">
+					<heading><title>Festschriften</title></heading> 
+					<bibentry id="D165"></bibentry>
+				</section> 
+				<section level="4" id="9">
+					<heading><title>Fiction</title></heading> 
+					<bibentry id="L833">Hartman and Drost</bibentry> 
+					<bibentry id="Q4265">McPheron</bibentry> 
+				</section> 
+				<section level="4" id="10">
+					<heading><title>Film</title></heading> 
+					<bibentry id="U5755">Wulff</bibentry> 
+				</section> 
+				<section level="4" id="11">
+					<heading><title>History</title></heading> 
+					<bibentry id="U6490">Henige</bibentry> 
+				</section> 
+				<section level="4" id="12">
+					<heading><title>Irish Literature</title></heading> 
+					<bibentry id="N2930">Eager</bibentry> 
+				</section> 
+				<section level="4" id="13">
+					<heading><title>Library Catalogs</title></heading> 
+					<bibentry id="E215">Downs</bibentry> 
+					<bibentry id="E220">Nelson</bibentry> 
+				</section> 
+				<section level="4" id="14">
+					<heading><title>Medieval Studies</title></heading> 
+					<bibentry id="M1805">Rouse</bibentry> 
+				</section> 
+				<section level="4" id="15">
+					<heading><title>National Bibliographies</title></heading> 
+					<bibentry id="D180">Domay</bibentry> 
+				</section> 
+				<section level="4" id="16">
+					<heading><title>Periodical Indexes</title></heading> 
+					<bibentry id="G327">Balay</bibentry> 
+				</section> 
+				<section level="4" id="17">
+					<heading><title>Poetry</title></heading> 
+					<bibentry id="Q4315">McPheron</bibentry> 
+				</section> 
+				<section level="4" id="18">
+					<heading><title>Serial Bibliographies</title></heading> 
+					<bibentry id="D145"></bibentry>
+					<bibentry id="G325">Wortman</bibentry> 
+					<bibentry id="M1805">Rouse</bibentry> 
+				</section> 
+				<section level="4" id="19">
+					<heading><title>Women’s Studies</title></heading> 
+					<bibentry id="E220">Nelson</bibentry> 
+					<bibentry id="U6585">Ballou</bibentry> 
+				</section> 
+			</section> <!--end level 3--> 
+		</section> <!-- end of step 1 --> 	
+		<section level="2" id="2"> 
+			<heading><boldtitle>Step 2:</boldtitle><subtitle> Search serial bibliographies to begin building a preliminary bibliography or to supplement an existing bibliography.</subtitle></heading> 
+			<section level="3" id="1"> 
+				<heading><title>a. Search the major general literature serial bibliographies.</title></heading>
+				<bibentry id="G335"></bibentry>
+				<bibentry id="G340"></bibentry>
+				<bibentry id="G345"></bibentry>
+			</section>
+			<section level="3" id="2"> 
+				<heading><title>b. Identify serial bibliographies devoted to a national literature, group, genre, literary period, subject, or individual author.</title></heading>
+				<bibentry id="G325">Wortman</bibentry> 
+				<bibentry id="D145"></bibentry>
+				<section level="4" id="1">
+					<heading><title>Specialized Bibliographies</title></heading> 
+					<section level="5" id="1">
+						<heading><title>African American Literature</title></heading>
+						<bibentry id="Q3740"></bibentry>
+						<bibentry id="R4787"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="2">
+						<heading><title>African Literatures</title></heading>
+						<bibentry id="R4423"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="3">
+						<heading><title>American Literature</title></heading>
+						<bibentry id="Q3285"></bibentry>
+						<bibentry id="Q3595"></bibentry>
+						<bibentry id="Q3620"></bibentry>
+						<bibentry id="Q3665"></bibentry>
+						<bibentry id="Q3700">Miller</bibentry> 
+						<bibentry id="Q3740"></bibentry>
+						<bibentry id="Q3973"></bibentry>
+						<bibentry id="R4787"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="4">
+						<heading><title>Art</title></heading>
+						<bibentry id="U5138"></bibentry>
+						<bibentry id="U5140"></bibentry>
+						<bibentry id="U5145"></bibentry>
+						<bibentry id="U5150"></bibentry>
+						<bibentry id="U5155"></bibentry>
+						<bibentry id="U5965"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="5">
+						<heading><title>Australian Literature</title></heading>
+						<bibentry id="R4463"></bibentry>
+						<bibentry id="R4480"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="6">
+						<heading><title>Bibliography and Textual Criticism</title></heading>
+						<bibentry id="U5275"></bibentry>
+						<bibentry id="U5280"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="7">
+						<heading><title>Biography</title></heading>
+						<bibentry id="J540"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="8">
+						<heading><title>Canadian Literature</title></heading>
+						<bibentry id="R4630"></bibentry>
+						<bibentry id="R4635"></bibentry>
+						<bibentry id="R4755"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="9">
+						<heading><title>Caribbean-Area Literatures in English</title></heading>
+						<bibentry id="R4787"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="10">
+						<heading><title>Children’s Literature</title></heading>
+						<bibentry id="U5478"></bibentry> 
+						<bibentry id="U5490"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="11">
+						<heading><title>Classical Literatures</title></heading>
+						<bibentry id="S4890"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="12">
+						<heading><title>Colonialism and Postcolonialism</title></heading>
+						<bibentry id="U6181"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="13">
+						<heading><title>Comparative Literature</title></heading>
+						<bibentry id="T5000"></bibentry> 
+					</section> <!--end of level 5--> 
+					<section level="5" id="14">
+						<heading><title>Composition and Rhetoric</title></heading>
+						<bibentry id="U5583"></bibentry>
+						<bibentry id="U5585"></bibentry>
+						<bibentry id="U5590"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="15">
+						<heading><title>Computers and the Humanities</title></heading>
+						<bibentry id="U5657"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="16">
+						<heading><title>Dance and Literature</title></heading>
+						<bibentry id="U5965"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="17">
+						<heading><title>Drama and Theater</title></heading>
+						<bibentry id="L1160"></bibentry>
+						<bibentry id="M2387"></bibentry>
+						<bibentry id="M2690"></bibentry>
+						<bibentry id="M2870"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="18"> 
+						<heading><title>English Literature</title></heading>
+						<bibentry id="M1660"></bibentry> 
+						<bibentry id="M1665"></bibentry>
+						<bibentry id="M1835"></bibentry>
+						<bibentry id="M2020"></bibentry>
+						<bibentry id="M2025"></bibentry>
+						<bibentry id="M2030"></bibentry>
+						<bibentry id="M2245"></bibentry>
+						<bibentry id="M2250"></bibentry> 
+						<bibentry id="M2387"></bibentry>
+						<bibentry id="M2485"></bibentry>
+						<bibentry id="M2490"></bibentry>
+						<bibentry id="M2495"></bibentry> 
+						<bibentry id="M2500"></bibentry>
+						<bibentry id="M2555"></bibentry> 
+						<bibentry id="M2690"></bibentry>
+						<bibentry id="M2720"></bibentry> 
+						<bibentry id="M2780"></bibentry> 
+						<bibentry id="M2870"></bibentry>
+					</section> 
+					<section level="5" id="19">
+						<heading><title>Environmental Studies</title></heading>
+						<bibentry id="U5737"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="20">
+						<heading><title>Film</title></heading>
+						<bibentry id="U5780"></bibentry>
+						<bibentry id="U5785"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="21">
+						<heading><title>Folklore</title></heading>
+						<bibentry id="G335"></bibentry>
+						<bibentry id="U5865"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="22">
+						<heading><title>Gay, Lesbian, Bisexual, and Transgendered Studies</title></heading>
+						<bibentry id="U5935"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="23">
+						<heading><title>Gothicism</title></heading>
+						<bibentry id="L875"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="24">
+						<heading><title>Hispanic American Literature</title></heading>
+						<bibentry id="Q3973"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="25">
+						<heading><title>History</title></heading>
+						<bibentry id="M1400"></bibentry>
+						<bibentry id="Q3310"></bibentry>
+						<bibentry id="Q3340"></bibentry>
+						<bibentry id="U6500"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="26">
+						<heading><title>Interdisciplinary Studies</title></heading>
+						<bibentry id="U5965"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="27">
+						<heading><title>Irish Literature</title></heading>
+						<bibentry id="N2955"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="28">
+						<heading><title>Linguistics</title></heading>
+						<bibentry id="U6010"></bibentry>
+						<bibentry id="U6015"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="29">
+						<heading><title>Midwestern American Literature</title></heading>
+						<bibentry id="Q3595"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="30">
+						<heading><title>Music</title></heading>
+						<bibentry id="U6240"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="31">
+						<heading><title>Onomastics</title></heading>
+						<bibentry id="U6040"></bibentry>
+						<bibentry id="U6040"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="32">
+						<heading><title>Other Literatures in English</title></heading>
+						<bibentry id="R4375"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="33">
+						<heading><title>Philosophy</title></heading>
+						<bibentry id="U6275"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="34">
+						<heading><title>Poetry</title></heading>
+						<bibentry id="R4755"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="35">
+						<heading><title>Political Science</title></heading>
+						<bibentry id="U6520"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="36">
+						<heading><title>Popular Culture</title></heading>
+						<bibentry id="U6295"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="37">
+						<heading><title>Psychology and Literature</title></heading>
+						<bibentry id="U6530"></bibentry>
+						<bibentry id="U6540"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="38">
+						<heading><title>Religion</title></heading>
+						<bibentry id="U6350"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="39">
+						<heading><title>Science and Literature</title></heading>
+						<bibentry id="U6440"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="40">
+						<heading><title>Science Fiction</title></heading>
+						<bibentry id="L1013"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="41">
+						<heading><title>Scottish Literature</title></heading>
+						<bibentry id="O3075"></bibentry>
+						<bibentry id="O3080"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="42">
+						<heading><title>Shakespeare, William</title></heading>
+						<bibentry id="M2020"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="43">
+						<heading><title>Short Fiction</title></heading>
+						<bibentry id="L1090"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="44">
+						<heading><title>Social Sciences</title></heading>
+						<bibentry id="U6470"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="45">
+						<heading><title>Sociology</title></heading>
+						<bibentry id="U6560"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="46">
+						<heading><title>Southern American Literature</title></heading>
+						<bibentry id="Q3620"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="47">
+						<heading><title>Stylistics</title></heading>
+						<bibentry id="U6075"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="48">
+						<heading><title>Western American Literature</title></heading>
+						<bibentry id="Q3665"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="49">
+						<heading><title>Women’s Studies</title></heading>
+						<bibentry id="U6610"></bibentry>
+					</section> <!--end of level 5--> 
+				</section> <!--end of level 4--> 
+			</section> <!--end of level 3--> 
+			<section level="3" id="2"> 
+				<heading><title>c. Search the major general serial bibliographies.</title></heading>
+				<bibentry id="G370"></bibentry>
+				<bibentry id="G380"></bibentry>
+				<bibentry id="G383"></bibentry>
+				<bibentry id="G385"></bibentry>
+				<bibentry id="G365"></bibentry>
+			</section>
+			<section level="3" id="3"> 
+				<heading><title>d. Search union catalogs.</title></heading>
+				<bibentry id="E225"></bibentry>
+			</section>
+			<section level="3" id="4"> 
+				<heading><title>e. Consult surveys of research.</title></heading>
+				<section level="4" id="1">
+					<heading><title>General Surveys</title></heading> 
+					<bibentry id="G330"></bibentry>
+				</section> 
+				<section level="4" id="1"> 
+					<heading><title>Specialized Surveys of Research</title></heading> 
+					<section level="5" id="1">
+						<heading><title>African American Literature</title></heading>
+						<bibentry id="Q3735">Inge, Duke, and Bryer</bibentry> 
+					</section> <!--end of level 5--> 
+					<section level="5" id="2">
+						<heading><title>African Literatures</title></heading>
+						<bibentry id="S4865">Lindfors </bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="3">
+						<heading><title>American Literature</title></heading>
+						<bibentry id="G330"></bibentry>
+						<bibentry id="Q3265"></bibentry>
+						<bibentry id="Q3275">Duke, Bryer, and Inge</bibentry> 
+						<bibentry id="Q3280">Harbert and Rees</bibentry> 
+						<bibentry id="Q3283"></bibentry>
+						<bibentry id="Q3735">Inge, Duke, and Bryer</bibentry> 
+						<bibentry id="Q4135">Myerson</bibentry> 
+						<bibentry id="Q4140">Woodress</bibentry> 
+						<bibentry id="Q4240">Bryer</bibentry> 
+					</section> <!--end of level 5--> 
+					<section level="5" id="4">
+						<heading><title>Book Collecting</title></heading>
+						<bibentry id="U5355">Tanselle </bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="5">
+						<heading><title>Canadian Literature</title></heading>
+						<bibentry id="R4730">Wagner </bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="6">
+						<heading><title>Children’s Literature</title></heading>
+						<bibentry id="U5477"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="7">
+						<heading><title>Composition and Rhetoric</title></heading>
+						<bibentry id="U5565">Gaillet</bibentry> 
+						<bibentry id="U5570"></bibentry>
+						<bibentry id="U5575">Moran and Lunsford</bibentry> 
+						<bibentry id="U5580">Tate</bibentry> 
+					</section> <!--end of level 5--> 
+					<section level="5" id="8">
+						<heading><title>Critical Theory</title></heading>
+						<bibentry id="U6133"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="9">
+						<heading><title>Cultural Theory</title></heading>
+						<bibentry id="U6133"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="10">
+						<heading><title>Drama and Theater</title></heading>
+						<bibentry id="M1555">Wells</bibentry> 
+						<bibentry id="M2145">Logan and Smith</bibentry> 
+						<bibentry id="M2150"></bibentry>
+						<bibentry id="M2385">Hume </bibentry>
+						<bibentry id="R4730">Wagner </bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="11">
+						<heading><title>English Literature</title></heading>
+						<bibentry id="G330"></bibentry>
+						<bibentry id="M1510">Dyson</bibentry> 
+						<bibentry id="M1555">Wells</bibentry> 
+						<bibentry id="M1595">Dyson</bibentry> 
+						<bibentry id="M1655"></bibentry>
+						<bibentry id="M1825">Severs, Hartung, and Beidler</bibentry> 
+						<bibentry id="M1830">Fisher</bibentry> 
+						<bibentry id="M2010"></bibentry> 
+						<bibentry id="M2015"></bibentry> 
+						<bibentry id="M2145">Logan and Smith</bibentry> 
+						<bibentry id="M2150"></bibentry>
+						<bibentry id="M2240"></bibentry>
+						<bibentry id="M2385">Hume </bibentry>
+						<bibentry id="M2477">O’Neill</bibentry> 
+						<bibentry id="M2480"></bibentry>
+						<bibentry id="M2665">Ford</bibentry> 
+						<bibentry id="M2710">Jordan</bibentry> 
+						<bibentry id="M2715">Faverty</bibentry> 
+						<bibentry id="M2720"></bibentry> 
+						<bibentry id="M2740">DeLaura</bibentry> 
+					</section> <!--end of level 5--> 
+					<section level="5" id="12">
+						<heading><title>Fiction</title></heading>
+						<bibentry id="M1510">Dyson</bibentry> 
+						<bibentry id="M2665">Ford</bibentry> 
+					</section> <!--end of level 5--> 
+					<section level="5" id="13">
+						<heading><title>Folklore</title></heading>
+						<bibentry id="O3070"></bibentry>
+						<bibentry id="U5860">Dorson</bibentry> 
+					</section> <!--end of level 5--> 
+					<section level="5" id="14">
+						<heading><title>Gay, Lesbian, Bisexual, and Transgendered Studies</title></heading>
+						<bibentry id="U5932"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="15">
+						<heading><title>Irish Literature</title></heading>
+						<bibentry id="N2950">Finneran</bibentry> 
+					</section> <!--end of level 5--> 
+					<section level="5" id="16">
+						<heading><title>Poetry</title></heading>
+						<bibentry id="M1595">Dyson</bibentry> 
+						<bibentry id="M2710">Jordan</bibentry> 
+						<bibentry id="M2715">Faverty</bibentry> 
+						<bibentry id="M2720"></bibentry> 
+					</section> <!--end of level 5--> 
+					<section level="5" id="17">
+						<heading><title>Popular Culture</title></heading>
+						<bibentry id="U6590">Fishburn</bibentry> 
+					</section> <!--end of level 5--> 
+					<section level="5" id="18">
+						<heading><title>Prose</title></heading>
+						<bibentry id="M2740">DeLaura</bibentry> 
+					</section> <!--end of level 5--> 
+					<section level="5" id="19">
+						<heading><title>Scottish Literature</title></heading>
+						<bibentry id="O3070"></bibentry>
+					</section> <!--end of level 5--> 
+					<section level="5" id="20">
+						<heading><title>Textual Studies</title></heading>
+						<bibentry id="F305">Schoenberg</bibentry> 
+						<bibentry id="U5273">Greetham</bibentry> 
+					</section> <!--end of level 5--> 
+					<section level="5" id="21">
+						<heading><title>Women’s Studies</title></heading>
+						<bibentry id="U6590">Fishburn</bibentry> 
+						<bibentry id="U6595">Hartman and Messer-Davidow</bibentry> 
+					</section> <!--end of level 5--> 
+				</section> <!-- end of level 4--> 
+			</section> <!-- end of level 3--> 
+			<section level="3" id="5"> 
+				<heading><title>f. Search dissertation bibliographies and abstracts.</title></heading>
+				<section level="4" id="1"> 
+					<heading><title>Bibliographies of Bibliographies and Databases</title></heading>
+					<bibentry id="H455">Reynolds</bibentry> 
+					<bibentry id="H465"></bibentry>
+					<bibentry id="H475"></bibentry>
+				</section> 
+				<section level="4" id="2"> 
+					<heading><title>Other Bibliographies of Theses and Dissertations</title></heading>
+					<bibentry id="H480"></bibentry>
+					<bibentry id="H485">Gabel</bibentry> 
+					<bibentry id="H490">McNamee</bibentry> 
+					<bibentry id="H495">Mummendey</bibentry> 
+					<bibentry id="M1355">Howard-Hill</bibentry> 
+					<bibentry id="M1395">Howard</bibentry> 
+					<bibentry id="M1670">Pulsiano</bibentry> 
+					<bibentry id="M2510">Altick and Matthews</bibentry> 
+					<bibentry id="N2988">O’Malley</bibentry> 
+					<bibentry id="N3045">Mikhail</bibentry> 
+					<bibentry id="Q3315">Howard</bibentry> 
+					<bibentry id="Q3320">Woodress</bibentry> 
+					<bibentry id="Q3630">Emerson and Michel</bibentry> 
+					<bibentry id="Q4020">Montgomery</bibentry> 
+					<bibentry id="R4660">Gabel</bibentry> 
+					<bibentry id="U5795">Fielding</bibentry> 
+					<bibentry id="U5885">Dundes</bibentry> 
+					<bibentry id="U6615">Gilbert</bibentry> 
+				</section> <!--end of level 4--> 
+			</section> 
+			<section level="3" id="6"> 
+				<heading><title>g. Search guides to scholarship and criticism associated with a particular national literature, genre, or subject.</title></heading>
+				<section level="4" id="1"> 
+					<heading><title>African Literatures</title></heading>
+					<bibentry id="R4423"></bibentry>
+					<bibentry id="R4425">Lindfors</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>American Literature</title></heading>
+					<bibentry id="G345"></bibentry>
+					<bibentry id="L1255">Kuntz</bibentry> 
+					<bibentry id="M1600">Brogan</bibentry> 
+					<bibentry id="M2245"></bibentry>
+					<bibentry id="M2250"></bibentry> 
+					<bibentry id="M2790">Pownall</bibentry> 
+					<bibentry id="M2800">Somer</bibentry> 
+					<bibentry id="M2870"></bibentry>
+					<bibentry id="M2875">Carpenter</bibentry> 
+					<bibentry id="Q3290">Jones</bibentry> 
+					<bibentry id="Q3295">Leary</bibentry> 
+					<bibentry id="Q3300"></bibentry>
+					<bibentry id="Q3335">Salzman</bibentry> 
+					<bibentry id="Q3475">Gerstenberger</bibentry> 
+					<bibentry id="Q3480">Weixlmann</bibentry> 
+					<bibentry id="Q3515">Archer</bibentry> 
+					<bibentry id="Q3517">Silvester</bibentry> 
+					<bibentry id="Q3520">Eddleman</bibentry> 
+					<bibentry id="Q3525">Wilmeth</bibentry> 
+					<bibentry id="Q3570">Gohdes</bibentry> 
+					<bibentry id="Q3575">Larson</bibentry> 
+					<bibentry id="Q3580">Stratman</bibentry> 
+					<bibentry id="Q3600">Nemanic</bibentry> 
+					<bibentry id="Q3625">Rubin</bibentry> 
+					<bibentry id="Q3670">Etulain and Howard</bibentry> 
+					<bibentry id="Q3713"></bibentry>
+					<bibentry id="Q3750">Perry</bibentry> 
+					<bibentry id="Q3755">Turner</bibentry> 
+					<bibentry id="Q3815">Margolies</bibentry> 
+					<bibentry id="Q3820">Fairbanks</bibentry> 
+					<bibentry id="Q3845">French</bibentry> 
+					<bibentry id="Q3875">Marken</bibentry> 
+					<bibentry id="Q3880">Ruoff</bibentry> 
+					<bibentry id="Q3920">Colonnese</bibentry> 
+					<bibentry id="Q3940">Cheung</bibentry> 
+					<bibentry id="Q3975">Eger</bibentry> 
+					<bibentry id="Q3990">Nadel</bibentry> 
+					<bibentry id="Q4025">Gephart</bibentry> 
+					<bibentry id="Q4065">Parker</bibentry> 
+					<bibentry id="Q4090">Scheick</bibentry> 
+					<bibentry id="Q4095">Yannella</bibentry> 
+					<bibentry id="Q4145">Chielens</bibentry> 
+					<bibentry id="Q4185">Holman</bibentry> 
+					<bibentry id="Q4190">Kirby</bibentry> 
+					<bibentry id="Q4200">Meserve</bibentry> 
+					<bibentry id="Q4205">Partridge</bibentry> 
+					<bibentry id="Q4250">Chielens</bibentry> 
+					<bibentry id="Q4270">Woodress</bibentry> 
+					<bibentry id="Q4287">Kolin</bibentry> 
+					<bibentry id="Q4289">Gavin</bibentry> 
+					<bibentry id="Q4290">Harris</bibentry> 
+					<bibentry id="Q4335">Gingerich</bibentry> 
+					<bibentry id="Q4345">Brier</bibentry> 
+					<bibentry id="U5600">Horner</bibentry> 
+					<bibentry id="U6080">Bailey</bibentry> 
+					<bibentry id="U6175">Bullock and Peck</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Art</title></heading>
+					<bibentry id="G365"></bibentry>
+					<bibentry id="M2263">Spector</bibentry> 
+					<bibentry id="M2525">Vann and Van Arsdel</bibentry> 
+					<bibentry id="Q3335">Salzman</bibentry> 
+					<bibentry id="U5130">Arntzen</bibentry> 
+					<bibentry id="U5138"></bibentry>
+					<bibentry id="U5140"></bibentry>
+					<bibentry id="U5145"></bibentry>
+					<bibentry id="U5150"></bibentry>
+					<bibentry id="U5155"></bibentry>
+					<bibentry id="U5160">Huddleston</bibentry> 
+					<bibentry id="U5965"></bibentry>
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Australian Literature</title></heading>
+					<bibentry id="R4463"></bibentry>
+					<bibentry id="R4485">Andrews</bibentry> 
+					<bibentry id="R4488">Ross</bibentry> 
+					<bibentry id="R4530">Day</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Bibliography</title></heading>
+					<bibentry id="M1355">Howard-Hill</bibentry> 
+					<bibentry id="U5273">Greetham</bibentry> 
+					<bibentry id="U5275"></bibentry>
+					<bibentry id="U5280"></bibentry>
+					<bibentry id="U5283">Baker and Womack</bibentry> 
+					<bibentry id="U5285"></bibentry>
+					<bibentry id="U5288">Luey</bibentry> 
+					<bibentry id="U5290">Tanselle</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Canadian Literature</title></heading>
+					<bibentry id="L1255">Kuntz</bibentry> 
+					<bibentry id="Q3670">Etulain and Howard</bibentry> 
+					<bibentry id="Q3885">Clements and Malpezzi</bibentry> 
+					<bibentry id="Q3990">Nadel</bibentry> 
+					<bibentry id="R4605"></bibentry>
+					<bibentry id="R4643">Dionne</bibentry> 
+					<bibentry id="R4645"></bibentry>
+					<bibentry id="R4650">Moyles</bibentry> 
+					<bibentry id="R4655">Watters and Bell</bibentry> 
+					<bibentry id="R4665">Fowke and Carpenter</bibentry> 
+					<bibentry id="R4705">Hayne</bibentry> 
+					<bibentry id="R4710">Hoy</bibentry> 
+					<bibentry id="R4735">Ball and Plant</bibentry> 
+					<bibentry id="R4755">Stevens</bibentry> 
+					<bibentry id="U6175">Bullock and Peck</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Caribbean-Area Literatures</title></heading>
+					<bibentry id="R4790">Allis</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Children’s Literature</title></heading>
+					<bibentry id="M2490"></bibentry>
+					<bibentry id="M2525">Vann and Van Arsdel</bibentry> 
+					<bibentry id="Q3940">Cheung</bibentry> 
+					<bibentry id="R4425">Lindfors</bibentry> 
+					<bibentry id="U5280"></bibentry>
+					<bibentry id="U5477"></bibentry>
+					<bibentry id="U5480">Hendrickson</bibentry> 
+					<bibentry id="U5485">Rahn</bibentry> 
+					<bibentry id="U6295"></bibentry>
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Comparative Literature</title></heading>
+					<bibentry id="T4990">Weisstein</bibentry> 
+					<bibentry id="T5000">Baldensperger</bibentry> 
+					<bibentry id="T5005"></bibentry>
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Drama and Theater</title></heading>
+					<bibentry id="L1165"></bibentry>
+					<bibentry id="L1170">Palmer</bibentry> 
+					<bibentry id="M1560">Arnott</bibentry> 
+					<bibentry id="M1562">Douglas</bibentry> 
+					<bibentry id="M1563">Cavanagh</bibentry> 
+					<bibentry id="M1930">Stratman, Spencer, and Devine</bibentry> 
+					<bibentry id="M2145">Logan and Smith</bibentry> 
+					<bibentry id="M2155">Bergeron</bibentry> 
+					<bibentry id="M2160">Stevens</bibentry> 
+					<bibentry id="M2165">White</bibentry> 
+					<bibentry id="M2390">Link</bibentry> 
+					<bibentry id="M2395">Stratman, Spencer, and Devine</bibentry> 
+					<bibentry id="M2690">Conolly</bibentry> 
+					<bibentry id="M2875">Carpenter</bibentry> 
+					<bibentry id="N3040">King</bibentry> 
+					<bibentry id="N3045">Mikhail</bibentry> 
+					<bibentry id="Q3515">Archer</bibentry> 
+					<bibentry id="Q3517">Silvester</bibentry> 
+					<bibentry id="Q3520">Eddleman</bibentry> 
+					<bibentry id="Q3525">Wilmeth</bibentry> 
+					<bibentry id="Q3570">Gohdes</bibentry> 
+					<bibentry id="Q3575">Larson</bibentry> 
+					<bibentry id="Q3580">Stratman</bibentry> 
+					<bibentry id="Q3845">French</bibentry> 
+					<bibentry id="Q4200">Meserve</bibentry> 
+					<bibentry id="Q4287">Kolin</bibentry> 
+					<bibentry id="Q4289">Gavin</bibentry> 
+					<bibentry id="Q4290">Harris</bibentry> 
+					<bibentry id="Q4295">Wildbihler</bibentry> 
+					<bibentry id="R4735">Ball and Plant</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>English Literature</title></heading>
+					<bibentry id="G355"></bibentry>
+					<bibentry id="L1255">Kuntz</bibentry> 
+					<bibentry id="M1385"></bibentry>
+					<bibentry id="M1390">Baer</bibentry> 
+					<bibentry id="M1400"></bibentry>
+					<bibentry id="M1515">Bell</bibentry> 
+					<bibentry id="M1520"></bibentry>
+					<bibentry id="M1560">Arnott</bibentry> 
+					<bibentry id="M1562">Douglas</bibentry> 
+					<bibentry id="M1563">Cavanagh</bibentry> 
+					<bibentry id="M1600">Brogan</bibentry> 
+					<bibentry id="M1605">Stauffer</bibentry> 
+					<bibentry id="M1670">Greenfield</bibentry> 
+					<bibentry id="M1675"></bibentry>
+					<bibentry id="M1680">Rosenthal</bibentry> 
+					<bibentry id="M1775">Braswell</bibentry> 
+					<bibentry id="M1840"></bibentry>
+					<bibentry id="M1845"></bibentry>
+					<bibentry id="M1850">Crosby</bibentry> 
+					<bibentry id="M1855">Paetow</bibentry> 
+					<bibentry id="M1930">Stratman</bibentry> 
+					<bibentry id="M1950">Edwards</bibentry> 
+					<bibentry id="M2035"></bibentry>
+					<bibentry id="M2040">Tannenbaum</bibentry> 
+					<bibentry id="M2045">Davies</bibentry> 
+					<bibentry id="M2050">Read</bibentry> 
+					<bibentry id="M2105">Harner</bibentry> 
+					<bibentry id="M2160">Stevens</bibentry> 
+					<bibentry id="M2165">White</bibentry> 
+					<bibentry id="M2260">Pargellis and Medley</bibentry> 
+					<bibentry id="M2263">Spector</bibentry> 
+					<bibentry id="M2285">Weed</bibentry> 
+					<bibentry id="M2340">Letellier</bibentry> 
+					<bibentry id="M2345">Spector</bibentry> 
+					<bibentry id="M2390">Link</bibentry> 
+					<bibentry id="M2395">Stratman, Spencer, and Devine</bibentry> 
+					<bibentry id="M2425">Mell</bibentry> 
+					<bibentry id="M2515">Brown and Christie</bibentry> 
+					<bibentry id="M2520">Hanham</bibentry> 
+					<bibentry id="M2560">Madden and Dixon</bibentry> 
+					<bibentry id="M2565">Ward</bibentry> 
+					<bibentry id="M2690">Conolly</bibentry> 
+					<bibentry id="M2725">Reiman</bibentry> 
+					<bibentry id="M2790">Pownall</bibentry> 
+					<bibentry id="M2795">Davies</bibentry> 
+					<bibentry id="M2800">Somer</bibentry> 
+					<bibentry id="M2805">Robbins</bibentry> 
+					<bibentry id="M2835">Cassis</bibentry> 
+					<bibentry id="M2840">Rice</bibentry> 
+					<bibentry id="M2875">Carpenter</bibentry> 
+					<bibentry id="M2900">Brown</bibentry> 
+					<bibentry id="Q4190">Kirby</bibentry> 
+					<bibentry id="Q4290">Harris</bibentry> 
+					<bibentry id="Q4295">Wildbihler</bibentry> 
+					<bibentry id="Q4335">Gingerich</bibentry> 
+					<bibentry id="S4893">Carlsen</bibentry> 
+					<bibentry id="U5565">Horner</bibentry> 
+					<bibentry id="U5600">Horner</bibentry> 
+					<bibentry id="U6080">Bailey</bibentry> 
+					<bibentry id="U6175">Bullock and Peck</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Fiction</title></heading>
+					<bibentry id="L860">Bleiler</bibentry> 
+					<bibentry id="L875">Frank</bibentry> 
+					<bibentry id="L920">Albert</bibentry> 
+					<bibentry id="L950">Laurenti</bibentry> 
+					<bibentry id="L1015">Barron</bibentry> 
+					<bibentry id="L1090"></bibentry>
+					<bibentry id="M1515">Bell</bibentry> 
+					<bibentry id="M1520"></bibentry>
+					<bibentry id="M2105">Harner</bibentry> 
+					<bibentry id="M2340">Letellier</bibentry> 
+					<bibentry id="M2345">Spector</bibentry> 
+					<bibentry id="M2835">Cassis</bibentry> 
+					<bibentry id="M2840">Rice</bibentry> 
+					<bibentry id="Q3474"></bibentry>
+					<bibentry id="Q3475">Gerstenberger</bibentry> 
+					<bibentry id="Q3480">Weixlmann</bibentry> 
+					<bibentry id="Q3815">Margolies</bibentry> 
+					<bibentry id="Q3820">Fairbanks</bibentry> 
+					<bibentry id="Q3920">Colonnese</bibentry> 
+					<bibentry id="Q4065">Parker</bibentry> 
+					<bibentry id="Q4185">Holman</bibentry> 
+					<bibentry id="Q4190">Kirby</bibentry> 
+					<bibentry id="Q4270">Woodress</bibentry> 
+					<bibentry id="R4530">Day</bibentry> 
+					<bibentry id="R4705">Hayne</bibentry> 
+					<bibentry id="R4710">Hoy</bibentry> 
+					<bibentry id="U5160">Huddleston</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Film and Literature</title></heading>
+					<bibentry id="L1015">Barron</bibentry> 
+					<bibentry id="M2780"></bibentry> 
+					<bibentry id="Q4295">Wildbihler</bibentry> 
+					<bibentry id="R4488">Ross</bibentry> 
+					<bibentry id="U5145"></bibentry>
+					<bibentry id="U5790">Rehrauer</bibentry> 
+					<bibentry id="U5793">Manchel</bibentry> 
+					<bibentry id="U5800">Ross</bibentry> 
+					<bibentry id="U6295"></bibentry>
+					<bibentry id="U6540">Kiell</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Folklore</title></heading>
+					<bibentry id="M1390">Baer</bibentry> 
+					<bibentry id="M2155">Bergeron</bibentry> 
+					<bibentry id="N2975">Harmon</bibentry> 
+					<bibentry id="O3070"></bibentry>
+					<bibentry id="O3075"></bibentry>
+					<bibentry id="O3080"></bibentry>
+					<bibentry id="Q3290">Jones</bibentry> 
+					<bibentry id="Q3335">Salzman</bibentry> 
+					<bibentry id="Q3600">Nemanic</bibentry> 
+					<bibentry id="Q3625">Rubin</bibentry> 
+					<bibentry id="Q3885">Clements and Malpezzi</bibentry> 
+					<bibentry id="R4425">Lindfors</bibentry> 
+					<bibentry id="R4655">Watters and Bell</bibentry> 
+					<bibentry id="R4665">Fowke and Carpenter</bibentry> 
+					<bibentry id="R4790">Comitas</bibentry> 
+					<bibentry id="U5657"></bibentry>
+					<bibentry id="U5902">Richmond</bibentry> 
+					<bibentry id="U5905">Carnes</bibentry> 
+					<bibentry id="U5910">Miller</bibentry> 
+					<bibentry id="U5920">Mieder</bibentry> 
+					<bibentry id="U6540">Kiell</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Gothic Fiction</title></heading>
+					<bibentry id="L860">Bleiler</bibentry> 
+					<bibentry id="L875">Frank</bibentry> 
+					<bibentry id="M2345">Spector</bibentry> 
+					<bibentry id="U6295"></bibentry>
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Hispanic American Literature</title></heading>
+					<bibentry id="Q3975">Eger</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Historical Fiction</title></heading>
+					<bibentry id="U6295"></bibentry>
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>History and Literature</title></heading>
+					<bibentry id="M1680">Rosenthal</bibentry> 
+					<bibentry id="M1845">Graves</bibentry> 
+					<bibentry id="M1850">Crosby</bibentry> 
+					<bibentry id="M1855">Paetow</bibentry> 
+					<bibentry id="M2045">Davies</bibentry> 
+					<bibentry id="M2050">Read</bibentry> 
+					<bibentry id="M2260">Pargellis and Medley</bibentry> 
+					<bibentry id="M2263">Spector</bibentry> 
+					<bibentry id="M2515">Brown and Christie</bibentry>
+					<bibentry id="M2520">Hanham</bibentry> 
+					<bibentry id="M2805">Robbins</bibentry> 
+					<bibentry id="Q3325">Basler</bibentry> 
+					<bibentry id="Q3330"></bibentry>
+					<bibentry id="Q3335">Salzman</bibentry> 
+					<bibentry id="Q3600">Nemanic</bibentry> 
+					<bibentry id="Q4025">Gephart</bibentry> 
+					<bibentry id="U6497"></bibentry>
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Irish Literature</title></heading>
+					<bibentry id="N2965"></bibentry>
+					<bibentry id="N2970"></bibentry>
+					<bibentry id="N2975">Harmon</bibentry> 
+					<bibentry id="N2980">Hayes</bibentry> 
+					<bibentry id="N2985">McKenna</bibentry> 
+					<bibentry id="N3040">King</bibentry> 
+					<bibentry id="N3045">Mikhail</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Medicine and Literature</title></heading>
+					<bibentry id="M2263">Spector</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Music and Literature</title></heading>
+					<bibentry id="Q3335">Salzman</bibentry> 
+					<bibentry id="U5910">Miller</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Mystery Fiction</title></heading>
+					<bibentry id="L920">Albert</bibentry> 
+					<bibentry id="U6295"></bibentry>
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>New Zealand Literature</title></heading>
+					<bibentry id="R4820">Thomson</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Philosophy and Literature</title></heading>
+					<bibentry id="M2263">Spector</bibentry> 
+					<bibentry id="Q3180">Gohdes</bibentry> 
+					<bibentry id="Q3295">Leary</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Poetry</title></heading>
+					<bibentry id="L1245">Coleman</bibentry> 
+					<bibentry id="L1250">Donow</bibentry> 
+					<bibentry id="L1255">Kuntz</bibentry> 
+					<bibentry id="M1595">Dyson</bibentry> 
+					<bibentry id="M1600">Brogan</bibentry> 
+					<bibentry id="M2425">Mell</bibentry> 
+					<bibentry id="M2725">Reiman</bibentry> 
+					<bibentry id="O3130">Glen</bibentry> 
+					<bibentry id="Q3845">French</bibentry> 
+					<bibentry id="Q4090">Scheick</bibentry> 
+					<bibentry id="Q4335">Gingerich</bibentry> 
+					<bibentry id="R4755">Stevens</bibentry> 
+					<bibentry id="U6295"></bibentry>
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Political Science and Literature</title></heading>
+					<bibentry id="M2263">Spector</bibentry> 
+					<bibentry id="Q3335">Salzman</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Popular Culture</title></heading>
+					<bibentry id="Q3180">Gohdes</bibentry> 
+					<bibentry id="Q3335">Salzman</bibentry> 
+					<bibentry id="U6295"></bibentry>
+					<bibentry id="U6590">Fishburn</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Postcolonialism</title></heading>
+					<bibentry id="U6183">Nordquist</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Prose</title></heading>
+					<bibentry id="M1950">Edwards</bibentry> 
+					<bibentry id="M2900">Brown</bibentry> 
+					<bibentry id="Q4095">Yannella</bibentry> 
+					<bibentry id="Q4205">Partridge</bibentry> 
+					<bibentry id="Q4345">Brier</bibentry> 
+					<bibentry id="R4530">Day</bibentry> 
+					<bibentry id="R4710">Hoy</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Psychology and Literature</title></heading>
+					<bibentry id="Q3180">Gohdes</bibentry> 
+					<bibentry id="Q3335">Salzman</bibentry> 
+					<bibentry id="S4905">Beugnot</bibentry> 
+					<bibentry id="U6540">Kiell</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Religion and Literature</title></heading>
+					<bibentry id="M2263">Spector</bibentry> 
+					<bibentry id="Q3180">Gohdes</bibentry> 
+					<bibentry id="Q3295">Leary</bibentry> 
+					<bibentry id="Q3335">Salzman</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Science and Literature</title></heading>
+					<bibentry id="Q3295">Leary</bibentry> 
+					<bibentry id="U6445"></bibentry>
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Science Fiction</title></heading>
+					<bibentry id="L1015">Barron</bibentry> 
+					<bibentry id="U6295"></bibentry>
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Scottish Literature</title></heading>
+					<bibentry id="O3085"></bibentry>
+					<bibentry id="O3130">Glen</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Short Fiction</title></heading>
+					<bibentry id="L1090"></bibentry>
+					<bibentry id="Q3480">Weixlmann</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Social Sciences and Literature</title></heading>
+					<bibentry id="S4905">Beugnot</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Welsh Literature</title></heading>
+					<bibentry id="P3157">Harris</bibentry> 
+				</section> <!--end of level 4--> 
+				<section level="4" id="1"> 
+					<heading><title>Women and Literature</title></heading>
+					<bibentry id="M2263">Spector</bibentry> 
+					<bibentry id="M2525">Vann and Van Arsdel</bibentry> 
+					<bibentry id="Q3295">Leary</bibentry> 
+					<bibentry id="Q3335">Salzman</bibentry> 
+					<bibentry id="Q3723">Jordan</bibentry> 
+					<bibentry id="Q4289">Gavin</bibentry> 
+					<bibentry id="R4488">Ross</bibentry> 
+					<bibentry id="U6169">Nordquist</bibentry> 
+					<bibentry id="U6170">Humm</bibentry> 
+					<bibentry id="U6295"></bibentry>
+					<bibentry id="U6590">Fishburn</bibentry> 
+					<bibentry id="U6595">Hartman and Messer-Davidow</bibentry> 
+					<bibentry id="U6600">Boos</bibentry> 
+					<bibentry id="U6605">Schwartz</bibentry> 
+				</section> <!--end of level 4--> 
+			</section> <!-- end of level 3 --> 
+		</section> <!-- end of Step 2 --> 
+	</section> <!-- end of Page 3-->
+</document> 
