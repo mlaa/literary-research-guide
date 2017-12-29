@@ -1,0 +1,19 @@
+div.myprojectsformpage form {width:97%;}
+
+#mainBody div.less a.moreLink { display: inline-block; }
+
+#recentBox #recentBoxHeader { padding-bottom:10px; }
+
+#entryNavTop, #entryNavBottom {
+	position: relative;
+}
+#entryNavTop .previous, #entryNavBottom .previous {
+	width:100px;
+	padding: 0;
+}
+
+#mainBody #breadcrumb li { line-height: 1.4em; }
+
+#contentWrapper {float: none;}
+
+#mainBody div.less a.moreLink {	background-position: right 3px; }

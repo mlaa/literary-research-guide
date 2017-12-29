@@ -1,0 +1,80 @@
+/* 
+    Document   : cssmenu
+    Created on : 11-jun-2009, 8:32:26
+    Author     : polivera
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+ul.navBox li a {
+	background-color:transparent !important;
+}
+
+ul.navBox li#contentsTab {
+	height:35px;
+	overflow:hidden;
+	position:relative;
+	background-image:url(../image/tabs.png);
+	background-position:-13px -73px;
+}
+
+ul.navBox li#contentsTab:hover {
+	height:476px;
+
+	position:relative;
+	top:0;
+	z-index:10;
+	overflow:visible;
+	background-image:url(../image/tabs.png);
+	background-position:-13px -18px;
+}
+
+ul.navBox li#researchTab {
+	height:35px;
+	overflow:hidden;
+	position:relative;
+	background-image:url(../image/tabs.png);
+	background-position:-139px -18px;
+	background-repeat:no-repeat;
+}
+
+ul.navBox li#researchTab:hover {
+	display:block;
+	position:relative;
+	top:0;
+	z-index:10;
+	overflow:visible;
+	background-image:url(../image/tabs.png);
+	background-position:-139px -73px;
+	background-repeat:no-repeat;
+}
+
+ul.navBox li#projectsTab {
+	height:35px;
+	overflow:hidden;
+	position:relative;
+	background-image:url(../image/tabs.png);
+	background-position:-352px -18px;
+	background-repeat:no-repeat
+}
+
+ul.navBox li#projectsTab:hover {
+	display:block;
+	position:relative;
+	top:0;
+	z-index:10;
+	overflow:visible;
+	background-image:url(../image/tabs.png);
+	background-position:-352px -128px;
+	background-repeat:no-repeat;
+}
+
+ul.navBox div.menuBox {
+	position:relative;
+	height:470px !important;
+}

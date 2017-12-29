@@ -1,0 +1,44 @@
+div.myprojectsformpage form {width:97%;}
+
+.myprojectsdetailpage .projectDetailsBox{overflow:hidden;width:100%;}
+.myprojectsdetailpage .projectDetailsBox .title{ width:100%;overflow:hidden;}
+.researchstepspage ul.researchLinks {margin-left:20px;}
+.researchstepspage ul.researchLinks li{list-style-image:url(../js/jquery-plugins/treeview/images/empty-gray.gif);}
+#navigation { bottom: -2px; }
+.navigationDropdown { background: #944d00; }
+
+#mainBody div.less a.moreLink { display: inline-block; }
+
+#recentBox #recentBoxHeader { padding-bottom:10px; }
+
+#accountLinks { margin-top: 0; }
+
+#mainBody form div.formField { margin-top: 10px; clear: both; }
+#mainBody form div.formFieldDouble { margin-top: 10px; clear: both; }
+form div.formFieldCheck { clear: both; }
+
+#recentBox #recentBoxHeader h2 { margin-left: 9px; }
+
+#mainBody div.less a.moreLink { background-position: right 7px; }
+
+/* fixing disappearing background images on bullet lists */
+ul.researchLinks li { position: relative; }
+
+/* escaping the underscore for IE6 */
+#searchForm #\_searchBtn {
+	position: absolute;
+	top: 0;
+	right: 0;
+	background: transparent url(../image/search_btn.gif) no-repeat left top;
+	height: 22px;
+	cursor: pointer;
+	border: none;
+	width: 35px;
+	font-size: 0;
+	color: #fff;
+	text-align: right;
+	text-indent: 0;
+	right: -14px;
+}
+
+#mainBody #breadcrumb li { line-height: 1.4em; }

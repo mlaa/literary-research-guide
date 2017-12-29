@@ -1,0 +1,63 @@
+* {
+	background: transparent !important;
+	color: black !important; 
+	box-shadow:none !important; 
+	text-shadow: none !important; 
+	filter:none !important; 
+	-ms-filter: none !important;
+	color: #000 !important;
+}
+.visuallyhidden {
+	clip: auto;
+	height: auto;
+	margin: 0;
+	overflow: hidden;
+	position: static;
+	width: auto;
+}
+
+#rightColumn,
+.button,
+#footerNav,
+#entryNavTop, 
+#entryNavBottom,
+#actionsBox,
+#recentBox,
+.skip,
+.site-search,
+.static-nav,
+.acct-nav,
+.navigationTab { 
+	display: none !important; 
+}
+
+/**** DO NOT DELETE THESE STYLE DECLARATIONS ****/
+
+@media print {
+	#contentWrapper,
+	#mainContent {
+		width:auto !important;
+		margin:0 !important;
+	}
+}
+
+#header { }
+#contentWrapper { }
+#mainContent { }
+#rightColumn { }
+#footer { position: static; }
+
+
+
+.main-nav {
+	margin-top: 1em;
+	margin-bottom: 1.5em;
+	padding: 0;
+}
+.main-nav li {
+	float: none;
+}
+.site-logo {}
+
+#breadcrumb { overflow: visible; }
+#copyright { float:none; margin:0; }
